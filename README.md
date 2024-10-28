@@ -1,13 +1,17 @@
 # Odin-recipes
-Odin-project-training-exercise-recipes-web-page
+Odin project training exercise recipes web page.
+
 In this project we will create a simople recipe webpage. 
 Page will consist of:
 
-Main page with:
-1. Headline
-2. 3 pictures of the dishes
-3. Links underneath pictures, directiong to sites that have those recipes. 
+1. Main page with:
+	1. Headline
+	2. 3 links to the recipes.
 
+2. Subpages with recipes:
+	- Recipe for Cinnamonrolls 
+	- Recipe for Pumpkin cake
+	- Recipe for Pumpkin ragout with rice
 Skills shown in this project: 
 
 - Knowledge of basic HTML coding
